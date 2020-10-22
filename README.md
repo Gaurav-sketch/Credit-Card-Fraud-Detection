@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection
-Using Python
+Used Kaggle imbalanced dataset on Credit Card Fraud. Performed Feature Engineering and Feature selection methods on the dataset. Used libraries like Pandas , matplotlib ,sklearn,scipy, pylab, and seaborn to complete this project.Used unsupervised techniques like the Isolation Forest algorithm, Local outlier factor, and One-Class SVM method to detect the frauds. It was found that the Isolation Forest model performed well with an accuracy of 99.74% as compared to other models.
